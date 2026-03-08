@@ -1,0 +1,258 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "title": "Suspicious phishing email targeting residents",
+    "description": "Multiple residents reported receiving emails impersonating the local utility company asking for account credentials.",
+    "category": "PHISHING",
+    "severity": "HIGH",
+    "status": "open",
+    "location": "Downtown",
+    "reportedAt": "2025-03-06T10:30:00Z",
+    "updatedAt": "2025-03-06T10:30:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Do not click links in suspicious emails",
+      "Report to local authorities"
+    ],
+    "calmDescription": "Multiple residents reported receiving emails impersonating the local utility company asking for account credentials."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "title": "Package stolen from front porch",
+    "description": "A resident on Maple Street reported a package was taken from their porch around 2pm.",
+    "category": "PACKAGE_THEFT",
+    "severity": "LOW",
+    "status": "investigating",
+    "location": "Maple Street",
+    "reportedAt": "2025-03-05T14:00:00Z",
+    "updatedAt": "2025-03-05T16:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Check doorbell camera footage",
+      "File a report with local police"
+    ],
+    "calmDescription": "A resident on Maple Street reported a package was taken from their porch around 2pm."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "title": "Neighborhood-wide internet outage",
+    "description": "Internet service has been down for the entire Oak Park area since this morning.",
+    "category": "INTERNET_OUTAGE",
+    "severity": "MEDIUM",
+    "status": "open",
+    "location": "Oak Park",
+    "reportedAt": "2025-03-07T08:00:00Z",
+    "updatedAt": "2025-03-07T08:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Contact your ISP",
+      "Check for outage updates on provider website"
+    ],
+    "calmDescription": "Internet service has been down for the entire Oak Park area since this morning."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "title": "Online marketplace scam reported",
+    "description": "A resident paid for an item on an online marketplace but never received the product. The seller's account has since been deleted.",
+    "category": "ONLINE_SCAM",
+    "severity": "MEDIUM",
+    "status": "open",
+    "location": "Riverside",
+    "reportedAt": "2025-03-04T09:15:00Z",
+    "updatedAt": "2025-03-04T09:15:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "File a dispute with your payment provider",
+      "Report the seller to the platform"
+    ],
+    "calmDescription": "A resident paid for an item on an online marketplace but never received the product. The seller's account has since been deleted."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "title": "Social media account compromised",
+    "description": "A resident's social media account was taken over and used to send spam messages to their contacts.",
+    "category": "ACCOUNT_COMPROMISE",
+    "severity": "HIGH",
+    "status": "resolved",
+    "location": "Westside",
+    "reportedAt": "2025-03-03T18:45:00Z",
+    "updatedAt": "2025-03-04T10:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Change passwords on all accounts",
+      "Enable two-factor authentication"
+    ],
+    "calmDescription": "A resident's social media account was taken over and used to send spam messages to their contacts."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "title": "Suspicious person near school",
+    "description": "A parent reported an unfamiliar individual loitering near the elementary school during pickup hours.",
+    "category": "SUSPICIOUS_ACTIVITY",
+    "severity": "HIGH",
+    "status": "investigating",
+    "location": "Elm Street",
+    "reportedAt": "2025-03-06T15:30:00Z",
+    "updatedAt": "2025-03-06T16:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Alert school administration",
+      "Contact local police non-emergency line"
+    ],
+    "calmDescription": "A parent reported an unfamiliar individual loitering near the elementary school during pickup hours."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "title": "Garage break-in on Cedar Lane",
+    "description": "A homeowner discovered their garage had been broken into overnight. Tools and a bicycle were stolen.",
+    "category": "BURGLARY",
+    "severity": "HIGH",
+    "status": "open",
+    "location": "Cedar Lane",
+    "reportedAt": "2025-03-07T07:00:00Z",
+    "updatedAt": "2025-03-07T07:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "File a police report immediately",
+      "Check with neighbors for security camera footage"
+    ],
+    "calmDescription": "A homeowner discovered their garage had been broken into overnight. Tools and a bicycle were stolen."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "title": "Power outage affecting three blocks",
+    "description": "Residents on Pine, Oak, and Birch streets have reported a complete power outage starting around 6am.",
+    "category": "POWER_OUTAGE",
+    "severity": "MEDIUM",
+    "status": "resolved",
+    "location": "Pine Street area",
+    "reportedAt": "2025-03-05T06:00:00Z",
+    "updatedAt": "2025-03-05T14:30:00Z",
+    "source": "system",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Contact the power company",
+      "Avoid opening refrigerator to preserve food"
+    ],
+    "calmDescription": "Residents on Pine, Oak, and Birch streets have reported a complete power outage starting around 6am."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "title": "Fake charity solicitation calls",
+    "description": "Several residents received phone calls from an organization claiming to collect donations for a local charity that does not exist.",
+    "category": "FRAUD",
+    "severity": "MEDIUM",
+    "status": "open",
+    "location": "Citywide",
+    "reportedAt": "2025-03-06T12:00:00Z",
+    "updatedAt": "2025-03-06T12:00:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Do not provide personal or financial information",
+      "Report the number to the FTC"
+    ],
+    "calmDescription": "Several residents received phone calls from an organization claiming to collect donations for a local charity that does not exist."
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440010",
+    "title": "Unusual Wi-Fi network appearing in neighborhood",
+    "description": "Residents noticed a new open Wi-Fi network named 'Free_Internet_Elm' that may be a honeypot for capturing network traffic.",
+    "category": "SUSPICIOUS_ACTIVITY",
+    "severity": "LOW",
+    "status": "open",
+    "location": "Elm Street",
+    "reportedAt": "2025-03-07T09:30:00Z",
+    "updatedAt": "2025-03-07T09:30:00Z",
+    "source": "user",
+    "classifiedBy": "rules",
+    "recommendedActions": [
+      "Do not connect to unknown Wi-Fi networks",
+      "Use a VPN if you must use public networks"
+    ],
+    "calmDescription": "Residents noticed a new open Wi-Fi network named 'Free_Internet_Elm' that may be a honeypot for capturing network traffic."
+  },
+  {
+    "id": "ac1dffcc-4633-448d-92c5-e4d4f783801f",
+    "title": "Suspicious person near an elementary school ",
+    "description": "OMG I'm FREAKING OUT! there is a guy watching the kids and he's been here for over an hour!!!!",
+    "calmDescription": "A person has been observed in the vicinity of the elementary school for approximately one hour. The individual appeared to be watching the children. The situation has been reported for appropriate follow-up by authorities.",
+    "category": "SUSPICIOUS_ACTIVITY",
+    "severity": "HIGH",
+    "status": "open",
+    "location": "Carnaby Street - Rochester High",
+    "reportedAt": "2026-03-08T17:01:39.607Z",
+    "updatedAt": "2026-03-08T17:01:39.607Z",
+    "source": "user",
+    "classifiedBy": "ai",
+    "recommendedActions": [
+      "Contact local police non-emergency line",
+      "Document details such as time, appearance, and vehicle",
+      "Alert neighbors through community channels"
+    ]
+  },
+  {
+    "id": "d3ab731e-e03c-4de6-93fb-9a1a63219c21",
+    "title": "A person is stalking me in the park",
+    "description": "THERE IS A person STALKIING ME for over an HOUR!!!!! Please watch out!!!!",
+    "calmDescription": "A person has been following me in the park for approximately one hour. Please be aware of your surroundings.",
+    "category": "SUSPICIOUS_ACTIVITY",
+    "severity": "HIGH",
+    "status": "open",
+    "location": "Grant park",
+    "reportedAt": "2026-03-08T17:10:38.473Z",
+    "updatedAt": "2026-03-08T17:10:38.473Z",
+    "source": "user",
+    "classifiedBy": "ai",
+    "recommendedActions": [
+      "Contact local police non-emergency line",
+      "Document details such as time, appearance, and vehicle",
+      "Alert neighbors through community channels"
+    ]
+  },
+  {
+    "id": "a3215671-f5c7-47ac-9b62-22f48b5f968d",
+    "title": "someone is following me ",
+    "description": "SOMEONE is following me on grant street!! Please watch out, he's been stalking me for over an hour!!!",
+    "calmDescription": "Someone is following me on Grant Street. This person has been following me for over an hour. Please be aware of this situation.",
+    "category": "SUSPICIOUS_ACTIVITY",
+    "severity": "HIGH",
+    "status": "open",
+    "location": "Grant street",
+    "reportedAt": "2026-03-08T17:24:20.696Z",
+    "updatedAt": "2026-03-08T17:24:20.696Z",
+    "source": "user",
+    "classifiedBy": "ai",
+    "recommendedActions": [
+      "Contact local police non-emergency line",
+      "Document details such as time, appearance, and vehicle",
+      "Alert neighbors through community channels"
+    ]
+  },
+  {
+    "id": "ec257708-97de-4182-a15b-ee354381afd3",
+    "title": "A cat was on a. tree",
+    "description": "A cat is on the tree near grant street!!!!! PLEASE HELPP!!",
+    "calmDescription": "A cat has been observed in a tree near Grant Street and requires assistance for safe removal.",
+    "category": "OTHER",
+    "severity": "LOW",
+    "status": "open",
+    "location": "Grante street park",
+    "reportedAt": "2026-03-08T17:36:28.052Z",
+    "updatedAt": "2026-03-08T17:36:28.052Z",
+    "source": "user",
+    "classifiedBy": "ai",
+    "recommendedActions": [
+      "Document all relevant details",
+      "Report to local authorities if applicable",
+      "Monitor the situation and report updates"
+    ]
+  }
+]

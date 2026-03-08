@@ -5,6 +5,7 @@ export interface Incident {
   id: string;
   title: string;
   description: string;
+  calmDescription: string;
   category: IncidentCategory;
   severity: Severity;
   status: "open" | "investigating" | "resolved" | "dismissed";
